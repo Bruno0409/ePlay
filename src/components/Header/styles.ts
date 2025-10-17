@@ -2,6 +2,7 @@ import styled from 'styled-components'
 import { cores } from '../../styles'
 
 export const HeaderBar = styled.header`
+  margin-top: 30px;
   background-color: ${cores.cinza};
   padding: 24px;
   border-radius: 16px;
