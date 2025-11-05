@@ -1,6 +1,5 @@
 import styled from 'styled-components'
 import { breakpoints, cores } from '../../styles'
-import { spawn } from 'child_process'
 
 export const Links = styled.ul`
   display: flex;
